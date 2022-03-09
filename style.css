@@ -1,13 +1,13 @@
 ﻿.body{
-    background-color: gray;
+    background-color: lightgray;
 }
 
 .center {
     text-align: center;
     border-radius: 100px;
-    background-color: darkblue;
+    background-color: cornflowerblue;
 }
 .right {
     text-align: right;
-    background-color: whitesmoke;
+    background-color: lavender;
 }
