@@ -5,9 +5,9 @@
 .center {
     text-align: center;
     border-radius: 100px;
-    background-color: lightBlue;
+    background-color: darkblue;
 }
 .right {
     text-align: right;
-    background-color: beige;
+    background-color: whitesmoke;
 }
