@@ -10,6 +10,7 @@
 
 .right {
     text-align: right;
-    background-color: midnightblue;
-    border-block: double;
+    background-color: dimgray;
+    border-block: solid;
+    color: black;
 }
