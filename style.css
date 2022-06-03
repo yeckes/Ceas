@@ -8,7 +8,7 @@
     background-color: steelblue;
 }
 
-ul {
+.bar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -19,5 +19,5 @@ ul {
 
 li {
     display: block;
-    float: left;
+    float: right;
 }
