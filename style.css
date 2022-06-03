@@ -7,12 +7,13 @@
     border-radius: 100px;
     background-color: steelblue;
 }
-.ul {
+
+ul {
     text-align: right;
     background-color: #f3f3f3;
     border-block: 1px solid #e7e7e7;
 }
 
-.li {
+li a{
     color: #666;
 }
