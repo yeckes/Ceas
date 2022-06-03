@@ -10,8 +10,9 @@
 
 .right {
     text-align: right;
-    background-color: dimgray;
+    background-color: black;
     border-block: solid;
-    color: black;
-    text-decoration:none;
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid white;
 }
