@@ -12,7 +12,5 @@
     text-align: right;
     background-color: black;
     border-block: solid;
-    color: white;
-    text-decoration: none;
-    border-bottom: 1px solid white;
+    block-size: 300px;
 }
